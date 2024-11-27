@@ -1,0 +1,107 @@
+file:///home/curator/documents/hyprland.txt {"mtime":1732571425497,"ctime":1732571425497,"size":0,"etag":"3dclldcjf0","orphaned":false,"typeId":""}
+1. Display Manager (DM)
+
+    What it is: A graphical login screen that allows you to choose sessions and log in.
+    Examples: SDDM, LightDM, GDM, or Ly (a TUI display manager).
+    Hyprland-specific note: Hyprland can be launched without a DM by starting it directly from a TTY, often through .bash_profile, .zprofile, or systemd service.
+
+3. Status Bar / Panel
+
+    What it is: Displays system information like time, workspaces, CPU/memory usage, and battery life.
+    Examples:
+        Waybar (popular for Wayland).
+        eww (highly customizable, lightweight widgets).
+    Hyprland-specific note: Waybar integrates seamlessly and supports Hyprland modules.
+
+4. Launcher
+
+    What it is: A tool to search and launch applications.
+    Examples:
+        rofi (popular for X11, can work with Wayland).
+        wofi (designed for Wayland).
+    Why it's useful: Fast app launching without navigating menus.
+
+5. Notification Daemon - can always customize this -
+
+    What it is: Displays system and application notifications.
+    Examples:
+        mako (minimal, Wayland-compatible).
+        dunst (can work but not Wayland-native).
+    Why it matters: Ensures you see alerts like updates, messages, or battery warnings.
+
+6. File Manager
+
+    What it is: Manages files and directories in a graphical interface.
+    Examples:
+        Thunar, Nautilus, Dolphin (general-purpose file managers).
+        nnn, lf (terminal-based, minimalist options).
+    Why it's useful: Essential for navigating and managing files unless you’re comfortable with terminal commands like ls and mv.
+
+7. Audio Management
+
+    What it is: Tools to control volume, devices, and audio streams.
+    Examples:
+        PipeWire with WirePlumber or PulseAudio.
+        Frontends: pavucontrol, wpctl.
+    Why it's important: To manage sound devices and streams effectively.
+
+8. Clipboard Manager
+
+    What it is: Manages copied text and images for reuse.
+    Examples:
+        wl-clipboard (Wayland-compatible).
+        clipman (minimal clipboard manager).
+    Why it helps: Stores clipboard history and allows easy retrieval.
+
+9. Session Management Tools
+
+    What it is: Manages power actions like locking, suspending, or shutting down.
+    Examples:
+        swaylock (for screen locking, Wayland-compatible).
+        grim + slurp (for screenshots).
+        wlogout (for logout/shutdown menus).
+    Why you need them: Provides essential controls for managing your session.
+
+10. Wallpaper Manager
+
+    What it is: Sets and manages wallpapers.
+    Examples:
+        swaybg (Wayland-native).
+        hsetroot (minimalist).
+        azote (GUI for wallpapers).
+    Why it's cool: Adds personality to your desktop.
+
+11. Keybinding & Hotkey Tools
+
+    What it is: While most WMs (including Hyprland) handle hotkeys natively, external tools can extend functionality.
+    Examples:
+        sxhkd (for advanced custom bindings, though less needed with Hyprland).
+    Why it matters: Allows customization of shortcuts and commands.
+
+12. Resource Monitoring
+
+    What it is: Monitors system resources like CPU, RAM, and temperatures.
+    Examples:
+        CLI tools: htop, btop.
+        GUI: conky, Waybar modules.
+    Why it's useful: Keeps track of system performance.
+
+13. Terminal Emulator
+
+    What it is: The interface for shell commands.
+    Examples:
+        Kitty (what you’re using).
+        Alacritty (Wayland-friendly).
+    Why it’s essential: Core part of any Linux workflow.
+
+
+Example Minimal Setup for Hyprland
+
+    Display Manager: Optional, start from TTY instead.
+    Waybar for status bar.
+    Wofi for application launcher.
+    Mako for notifications.
+    Thunar or nnn for file management.
+    PipeWire + pavucontrol for audio.
+    swaylock and grim + slurp for locking and screenshots.
+    swaybg for wallpapers.

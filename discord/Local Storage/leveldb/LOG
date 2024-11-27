@@ -1,0 +1,6 @@
+2024/11/27-03:42:59.267 dea Reusing MANIFEST /home/curator/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/27-03:42:59.279 dea Recovering log #7
+2024/11/27-03:42:59.279 dea Reusing old log /home/curator/.config/discord/Local Storage/leveldb/000007.log 
+2024/11/27-04:00:06.746 deb Level-0 table #11: started
+2024/11/27-04:00:06.762 deb Level-0 table #11: 863225 bytes OK
+2024/11/27-04:00:06.766 deb Delete type=0 #7

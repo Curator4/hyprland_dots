@@ -1,0 +1,12 @@
+2024-11-26 23:58:45.623 [info] Started local extension host with pid 80340.
+2024-11-26 23:58:48.305 [info] [perf] Render performance baseline is 24ms
+2024-11-27 00:15:13.302 [error] Unable to create file '/home/curator/.config/hypr/hyprland.conf' that already exists when overwrite flag is not set: Error: Unable to create file '/home/curator/.config/hypr/hyprland.conf' that already exists when overwrite flag is not set
+    at Pnt.u (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:67166)
+    at async Pnt.canCreateFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:67063)
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:31:79193)
+    at async gBe.doCreateFileOrFolder (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:527:8142)
+    at async $be.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:9609)
+    at async j0s.a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:11340)
+    at async j0s.undo (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:11237)
+2024-11-27 00:23:46.927 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

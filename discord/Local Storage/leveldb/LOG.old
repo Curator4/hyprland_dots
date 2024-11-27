@@ -1,0 +1,6 @@
+2024/11/27-02:14:12.743 ca0 Reusing MANIFEST /home/curator/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/27-02:14:12.760 ca0 Recovering log #4
+2024/11/27-02:14:12.760 ca0 Reusing old log /home/curator/.config/discord/Local Storage/leveldb/000004.log 
+2024/11/27-02:19:32.827 ca0 Level-0 table #8: started
+2024/11/27-02:19:32.856 ca0 Level-0 table #8: 868835 bytes OK
+2024/11/27-02:19:32.861 ca0 Delete type=0 #4
