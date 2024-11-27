@@ -2179,3 +2179,25 @@ Possible causes: the network is offline, Origin is not allowed by Access-Control
 [2024-11-27 04:30:44.512] [info]  [RunningGameStore] games [object Object]
 [2024-11-27 04:31:29.585] [info]  [RunningGameStore] games [object Object]
 [2024-11-27 04:31:34.598] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:32:59.737] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:33:04.747] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:34:24.900] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:35:06.327] [info]  [GatewaySocket] [WS CLOSED] (true, 4003, Not authenticated.) retrying in 1.86 seconds.
+[2024-11-27 04:35:08.447] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-27 04:35:08.663] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 216 ms
+[2024-11-27 04:35:08.664] [info]  [GatewaySocket] [RESUME] resuming session 5541e05057b61f0e3368aa06b312ec7c, seq: 868
+[2024-11-27 04:35:08.803] [info]  [GatewaySocket] [INVALID_SESSION]
+[2024-11-27 04:35:08.988] [warn]  [GatewaySocket] [WS CLOSED] because of authentication failure, marking as closed.
+[2024-11-27 04:35:08.988] [warn]  [GatewaySocket] [RESET] (true, 4004, Authentication failed.)
+[2024-11-27 04:35:08.988] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2024-11-27 04:35:09.042] [info]  [Routing/Utils] transitionTo - Transitioning to /login
+[2024-11-27 04:35:14.999] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:35:35.036] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:37:30.242] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:38:20.328] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:38:25.337] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:39:15.425] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:39:20.436] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:44:00.867] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:44:20.884] [info]  [RunningGameStore] games [object Object]
+[2024-11-27 04:45:00.925] [info]  [RunningGameStore] games [object Object]

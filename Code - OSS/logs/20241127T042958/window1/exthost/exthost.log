@@ -171,3 +171,8 @@
 	at ChildProcess.emit (node:events:531:35)
 	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
 2024-11-27 04:32:10.403 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3974
+2024-11-27 04:38:41.983 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3981
+2024-11-27 04:43:56.116 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-27 04:43:56.128 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-27 04:43:56.181 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-11-27 04:43:56.977 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
