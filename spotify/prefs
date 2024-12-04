@@ -1,7 +1,7 @@
 autologin.saved_credentials="{\"curator4\":[\"curator4\",\"2G83vOCmuqvlfQD2ekHYXYjnnVINNY/55bvTsrM/1/mccxAzMEzmoRQgoovKA+VaXnJ0qDlO0utj7ZZH2c2EXternCIWkWWYQpLYEo+EtEgSBnboARkmV0tp7aZVcc0YEPodjOvM1P9DBwgafKOxpm/MhNWZG3NQar9cVSWVBNRxRvbx41mgOfb5AUiuLkBsfL0+ee0BTCNMaBQrd4hDHGvl56lvd3BttBjfk0XQKLJl4Wxks6qZEwwrq9QxeOeInnKaqHY1iV0pVrEn68e66Ha3nxNBt5fcrE9AUv/oW/0=\"]}"
 autologin.blob="2G83vOCmuqvlfQD2ekHYXYjnnVINNY/55bvTsrM/1/mccxAzMEzmoRQgoovKA+VaXnJ0qDlO0utj7ZZH2c2EXternCIWkWWYQpLYEo+EtEgSBnboARkmV0tp7aZVcc0YEPodjOvM1P9DBwgafKOxpm/MhNWZG3NQar9cVSWVBNRxRvbx41mgOfb5AUiuLkBsfL0+ee0BTCNMaBQrd4hDHGvl56lvd3BttBjfk0XQKLJl4Wxks6qZEwwrq9QxeOeInnKaqHY1iV0pVrEn68e66Ha3nxNBt5fcrE9AUv/oW/0="
 es.send-on-startup=true
-core.clock_delta=-3603
+core.clock_delta=-3605
 autologin.username="curator4"
 app.window.position.saved=true
 app.window.position.height=1156
